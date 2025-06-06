@@ -918,7 +918,7 @@ export default {
         function: pattern,
         functionOptions: {
           match:
-            "/(local|sandbox|alpha|beta|test|testing|stag|staging|prod|production|next|preprod|preproduction)/i",
+            "/(local|sandbox|alpha|beta|dev|development|test|testing|stag|staging|prod|production|next|preprod|preproduction)/i",
         },
       },
     },
